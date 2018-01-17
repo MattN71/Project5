@@ -1,0 +1,27 @@
+Command: add
+Command: display
+Here's what I've got to do: 
+Category:	ECE 1574
+Title:	Project 5
+Due Date:	05/02/2017
+Description:	Last project for this crazy guy.
+
+Command: display 0
+Category:	ECE 1574
+Title:	Project 5
+Due Date:	05/02/2017
+Description:	Last project for this crazy guy.
+
+Command: save todos.txt
+Command: load todos.txt
+1 To Dos Loaded
+Command: remove 0
+Category:	ECE 1574
+Title:	Project 5
+Due Date:	05/02/2017
+Description:	Last project for this crazy guy.
+Command: display 10
+Invalid number: 10
+
+Command: remove 10
+Invalid number: 10

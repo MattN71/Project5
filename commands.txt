@@ -1,0 +1,12 @@
+add
+Category: ECE 1574
+Title: Project 5
+Due Date: 05/02/2017
+Description: Last project for this crazy guy.
+display
+display 0
+save todos.txt
+load todos.txt
+remove 0
+display 10
+remove 10
